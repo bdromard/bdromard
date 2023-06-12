@@ -5,4 +5,4 @@ I was previously an historian, specialized in the history of Ancient Mesopotomia
 <br>I am interested in databases, Web infrastructures, Python, JavaScript and more...
 <br>You will find here my different projects & exercises made during my training.
 
-<br>I am looking for an apprenticeship of 12 months as a back-end developer or as a DevOps, starting from October 2023.
+<br>I am looking for an apprenticeship of 12 months as a DevOps or as a backend developer, starting from October 2023.
