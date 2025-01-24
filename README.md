@@ -1,10 +1,7 @@
-<h1>Welcome !</h1>
+# About me
 
-I was previously an historian, specialized in the history of Ancient Mesopotomia.
-<br>I am now switching carreers and have started training in programming at <a href="https://adatechschool.fr/">Ada Tech School</a> since January 2023.
-<br>As of January 2024, I have started an apprenticeship as a developer at <a href="https://hubblo.org/">Hubblo</a>.
-<br>
-<br>My main learning interests at the moment are OCaml and Rust, Internet infrastructures, and operating systems (mainly Linux).
-<br>You will find here my different projects & exercises made during my training.
+I am a software developer at [Hubblo](https://hubblo.org), working mostly on [`carenage`](https://gitlab.com/hubblo/carenage) and [`boagent`](https://github.com/boavizta/boagent). 
+I was previously an historian, specialized in the history of Ancient Mesopotomia. I studied slavery and other forms of forced labour in first millennium BCE Babylonia for my PhD dissertation, and other subjects later on (fiscality, material culture).
 
-
+Presently, my main learning interests are Rust & functional programming, Internet infrastructures, operating systems (mainly Linux). 
+Anything related to the interactions between society, politics, and tech also interest me.
